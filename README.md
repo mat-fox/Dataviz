@@ -1,5 +1,5 @@
 # Data Visualization
-Python scripts for various types of plots:
+Python scripts to generate some pretty plots:
 
 * Staggered ridgeline from *dataframe* via *AWS* <br />
 ![Image ridgeline](Temp3.png)
