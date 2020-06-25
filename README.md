@@ -5,7 +5,6 @@ Python scripts for various types of plots:
 ![Image ridgeline](Temp3.png)
 
 * Scrolling x-y datalogger from *serial* via *Arduino*
-
 ![Image plotserial](469946.gif) <br />
 
 
