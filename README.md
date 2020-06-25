@@ -1,4 +1,4 @@
-# Dataviz
+# Data Visualization
 Python scripts for various types of plots:
 
 * Staggered ridgeline from *dataframe* via *AWS* <br />
