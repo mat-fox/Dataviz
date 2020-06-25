@@ -9,5 +9,6 @@ Python scripts for various types of plots:
 
 
 * Peak fit with multiple Gaussian convolution from *dataframe* <br />
+
 ![Image peakfit](PeakFit1.png)
 
